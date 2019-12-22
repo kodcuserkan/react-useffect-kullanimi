@@ -1,0 +1,1 @@
+React useEffect kullanımını html scroll hesaplayıcı bir fonksiyonla işledim. 

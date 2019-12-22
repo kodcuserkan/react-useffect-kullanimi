@@ -1,0 +1,9 @@
+
+.App {
+    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+}
+#metinBolumu {
+    margin-top: 90px;
+}
+#fixedHeader {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);}
